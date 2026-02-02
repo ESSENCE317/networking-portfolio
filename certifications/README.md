@@ -1,6 +1,7 @@
 # Certifications & Training
 
 ## Cisco
+![Cisco Networking Fundamentals](./network-technician-career-path.png)
 - Cisco Networking Fundamentals (Oct 2024)
 - Networking Devices and Initial Configuration (Oct 2024)
 - Network Addressing and Basic Troubleshooting (Nov 2024)
