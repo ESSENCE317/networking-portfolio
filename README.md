@@ -50,10 +50,20 @@ IT support, automation, and troubleshooting.
 ---
 
 ## Work Experience
-📁 View details: [experience](./experience)
+📁 View full details: [experience](./experience)
 
-- Support Staff – Accurate Biomed Services
-- Customer Service & Operations – Clancy’s Car Wash
+### Support Staff – Accurate Biomed Services  
+📍 New Castle, IN | Jul 2025 – Present  
+- Support technical workflows by preparing and inspecting medical equipment  
+- Track inventory and assist technicians to ensure smooth operations  
+- Perform quality checks and follow safety and compliance procedures  
+
+### Car Wash Attendant – Clancy’s Car Wash  
+📍 New Castle, IN | 6+ Years  
+- Delivered high-volume customer service (100–400 customers/day)  
+- Operated equipment, handled POS transactions, and maintained facilities  
+- Demonstrated reliability, teamwork, and strong work ethic  
+
 
 ---
 
