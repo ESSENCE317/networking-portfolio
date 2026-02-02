@@ -1,7 +1,6 @@
 # Certifications & Training
 
 ## Cisco
-![Cisco Networking Fundamentals](./network-technician-career-path1.png)
 - Cisco Networking Fundamentals (Oct 2024)
 - Networking Devices and Initial Configuration (Oct 2024)
 - Network Addressing and Basic Troubleshooting (Nov 2024)
@@ -28,3 +27,5 @@
 
 ## Other
 - Michigan State University – Pixel Art for Video
+
+![Cisco Networking Fundamentals](./network-technician-career-path1.png)
