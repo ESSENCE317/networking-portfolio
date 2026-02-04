@@ -1,4 +1,4 @@
-## Troubleshooting Scenarios:
+## Troubleshooting Scenarios;
 
 "Local Network Works, Internet Does Not"
 
@@ -39,4 +39,33 @@ Internet access requires routing traffic outside the local subnet. If a device c
 When a device attempts to reach an external destination:
 1. The destination IP is evaluated against the local subnet
 2. Because the address is outside the subnet, traffic is forwarded to the default gateway
-3. The device ARPs
+3. The device ARPs for the gateway’s MAC address
+4. The frame is sent to the router, which routes the packet toward the internet
+
+If the default gateway is missing, incorrect, or unreachable, the packet never leaves the local network—even though local communication continues to function normally.
+
+---
+
+### Diagnostic Steps
+
+To confirm a Layer 3 issue:
+- Verify the client’s IP configuration (IP address, subnet mask, default gateway)
+- Ping the default gateway
+- Attempt to ping a known public IP address (bypassing DNS)
+- Check router interface status and routing configuration
+
+These steps isolate whether the failure is due to gateway misconfiguration, routing failure, or upstream connectivity issues.
+
+---
+
+### Resolution
+
+The issue was resolved by correcting the default gateway configuration on the client device. Once Layer 3 routing was restored, internet connectivity resumed immediately.
+
+---
+
+### Why the OSI Model Matters Here
+
+The OSI model allowed the problem to be narrowed down quickly by eliminating functioning layers and focusing on the point where traffic logically failed.
+
+Instead of guessing, the issue was identified through structured layer-based reasoning, which is repeatable across different network environments.
